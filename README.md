@@ -42,7 +42,7 @@ Praticar C# e lógica de programação criando uma calculadora completa, com int
 
 ## 👨‍💻 Autor
 
-Projeto criado por [Seu Nome] como exercício pessoal para aprofundar conhecimentos em C#.
+Projeto criado por daeldev como exercício pessoal para aprofundar conhecimentos em C#.
 
 ---
 
